@@ -7,11 +7,11 @@ This repository contains the project "Design and Development of a Robotic System
 ## Abstract
 
 The project presents an innovative robotic system designed to enhance parking lot management through automated license plate detection and authorization verification. It employs advanced image processing techniques, the Single Shot Detector (SSD) algorithm for accurate license plate recognition, and an autonomous navigation system using ArduoRover. The system aims to streamline parking operations and improve security by preventing unauthorized parking.
-![PHOTO-2023-08-09-23-09-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-22.jpg?raw=true)
 
 ## Introduction
 
 With the rise in urbanization and technological advancements, managing parking facilities has become challenging. This project focuses on developing a robotic system to address modern parking lot management complexities. The system aims to detect license plates accurately and verify if a parked car is authorized to occupy a designated parking space. The integration of image processing techniques, the SSD algorithm, and ArduoRover technology offer a comprehensive solution for parking lot management.
+![PHOTO-2023-08-09-23-09-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-22.jpg?raw=true)
 
 ## Literature Review
 
