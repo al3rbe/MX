@@ -1,13 +1,4 @@
 # SSD Plate Detection System
-![PHOTO-2023-08-02-22-43-22 2](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-02-22-43-22%202.jpg?raw=true)
-
-![PHOTO-2023-08-02-22-43-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-02-22-43-22.jpg?raw=true)
-
-![PHOTO-2023-08-07-23-59-12](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-07-23-59-12.jpg?raw=true)
-
-![PHOTO-2023-08-09-23-09-15](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-15.jpg?raw=true)
-
-![PHOTO-2023-08-09-23-09-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-22.jpg?raw=true)
 
 ![PHOTO-2023-08-16-22-09-59](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-16-22-09-59.jpg?raw=true)
 
