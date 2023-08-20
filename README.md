@@ -28,6 +28,7 @@ License plate detection is crucial for vehicle identification and parking manage
 ### Single Shot Detector (SSD) Algorithm:
 
 The SSD algorithm, known for balancing speed and accuracy, is suitable for detecting license plates, which can vary in size due to distance and angle.
+
 ![1-s2.0-S1077314219301328-gr2.jpg](https://github.com/al3rbe/MX/blob/main/pic/1-s2.0-S1077314219301328-gr2.jpg?raw=true)
 
 ### Autonomous Navigation Using ArduoRover:
