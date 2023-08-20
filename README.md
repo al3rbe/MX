@@ -22,10 +22,15 @@ License plate detection is crucial for vehicle identification and parking manage
 ### Single Shot Detector (SSD) Algorithm:
 
 The SSD algorithm, known for balancing speed and accuracy, is suitable for detecting license plates, which can vary in size due to distance and angle.
+![1-s2.0-S1077314219301328-gr2.jpg](https://github.com/al3rbe/MX/blob/main/pic/1-s2.0-S1077314219301328-gr2.jpg?raw=true)
 
 ### Autonomous Navigation Using ArduoRover:
 
 ArduoRover, an open-source platform for rover-type robots, provides a framework for implementing autonomous navigation systems. It uses sensor data, GPS information, and preconfigured maps to ensure safe movement within dynamic environments.
+
+![mp_mission_planning.jpeg](https://github.com/al3rbe/MX/blob/main/pic/mp_mission_planning.jpeg?raw=true)
+
+mp_mission_planning.jpeg
 
 ## ROS Integration
 
