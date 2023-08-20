@@ -1,6 +1,6 @@
 # SSD Plate Detection System
 
-![PHOTO-2023-08-16-22-09-59](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-16-22-09-59.jpg?raw=true)
+![PHOTO-2023-08-20-03-42-43 3](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-20-03-42-43%203.jpg?raw=true)
 
 This project is designed to detect vehicle plates using the SSD (Single Shot MultiBox Detector) method. It captures images from a camera, detects plates, and then uses OCR (Optical Character Recognition) to read the plate numbers. Detected plates are then checked against an allowed list, and notifications are sent via Telegram. Additionally, the system integrates with a GPS module to provide the location of detected vehicles.
 
@@ -18,6 +18,7 @@ This project is designed to detect vehicle plates using the SSD (Single Shot Mul
 - pynmea2 (for parsing NMEA sentences from GPS)
 
 ## Setup
+![PHOTO-2023-08-07-23-59-12](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-07-23-59-12.jpg?raw=true)
 
 1. **Clone the Repository**: 
    Clone the repository or download the project files to your Jetson Nano.
@@ -26,6 +27,7 @@ This project is designed to detect vehicle plates using the SSD (Single Shot Mul
 ```bash
 cd ssd-plate_detection
 ```
+![PHOTO-2023-08-09-23-09-15](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-15.jpg?raw=true)
 
 3. **Run the Detection Script**:
    
@@ -40,7 +42,9 @@ If you encounter any permission errors related to the serial port, you can grant
 
 ```bash
 sudo chmod 777 /dev/ttySH1
-``` 
+```
+![PHOTO-2023-08-09-23-09-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-22.jpg?raw=true)
+
 **Note**: You might be prompted for the password for the Jetson Nano. The password is `1111`.
 
 ## Additional Information
