@@ -1,8 +1,7 @@
 # SSD Plate Detection System
 
-![PHOTO-2023-08-20-03-42-43 3](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-20-03-42-43%203.jpg?raw=true)
-
 This project is designed to detect vehicle plates using the SSD (Single Shot MultiBox Detector) method. It captures images from a camera, detects plates, and then uses OCR (Optical Character Recognition) to read the plate numbers. Detected plates are then checked against an allowed list, and notifications are sent via Telegram. Additionally, the system integrates with a GPS module to provide the location of detected vehicles.
+![PHOTO-2023-08-20-03-42-43 3](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-20-03-42-43%203.jpg?raw=true)
 
 ## Prerequisites
 
