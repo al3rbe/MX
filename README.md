@@ -21,20 +21,24 @@ This project is designed to detect vehicle plates using the SSD (Single Shot Mul
    Clone the repository or download the project files to your Jetson Nano.
 
 2. **Navigate to the Project Directory**:
-
+```bash
 cd ssd-plate_detection
-
+```
 
 3. **Run the Detection Script**:
+   
+   To run the detection script, copy and paste the following command into your terminal:
 
-python test.py 
+   ```bash
+   python test.py
 
 ## Troubleshooting
 
 If you encounter any permission errors related to the serial port, you can grant the necessary permissions using the following command:
 
+```bash
 sudo chmod 777 /dev/ttySH1
-
+``` 
 **Note**: You might be prompted for the password for the Jetson Nano. The password is `1111`.
 
 ## Additional Information
