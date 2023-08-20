@@ -3,8 +3,8 @@
 This repository contains the project 
 **Design and Development of a Robotic System for License Plate Verification in Parking Lots using a Single Shot Detector and ArduRover** by
 
-1. **Mohammed Alhubail**
-2. **Ascandar Alfort**
+- **Mohammed Alhubail**
+- **Ascandar Alfort**
 
 Supervised By:
 - DR. Sami Elferik 
