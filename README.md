@@ -7,9 +7,9 @@ This repository contains the project
 2. **Ascandar Alfort**
 
 Supervised By:
-1. DR. Sami Elferik 
+- DR. Sami Elferik 
 Co-Supervised By:
-2. DR. Abdul-Wahid A. AL Saif
+- DR. Abdul-Wahid A. AL Saif
 
 Submitted to King Fahd University of Petroleum and Minerals, College of Engineering and physics, Department of Control & Instrumentation Engineering.
 
