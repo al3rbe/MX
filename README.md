@@ -40,7 +40,7 @@ cd ssd-plate_detection
 If you encounter any permission errors related to the serial port, you can grant the necessary permissions using the following command:
 
 ```bash
-sudo chmod 777 /dev/ttySH1
+sudo chmod 777 /dev/ttyTHS1
 ```
 ![PHOTO-2023-08-09-23-09-22](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-09-23-09-22.jpg?raw=true)
 
