@@ -1,6 +1,12 @@
 # SSD Plate Detection System: Robotic License Plate Verification in Parking Lots
 
-This repository contains the project "Design and Development of a Robotic System for License Plate Verification in Parking Lots using a Single Shot Detector and ArduRover" by Ascandar Alfort and Mohammed Alhubail, submitted to King Fahd University of Petroleum and Minerals, College of Engineering and physics, Department of Control & Instrumentation Engineering.
+This repository contains the project 
+**Design and Development of a Robotic System for License Plate Verification in Parking Lots using a Single Shot Detector and ArduRover** by
+
+1. **Mohammed Alhubail**
+2. **Ascandar Alfort**
+
+Submitted to 'King Fahd University of Petroleum and Minerals', "College of Engineering and physics", Department of Control & Instrumentation Engineering.
 
 ![Project Image](https://github.com/al3rbe/MX/blob/main/pic/PHOTO-2023-08-20-03-42-43%203.jpg?raw=true)
 
